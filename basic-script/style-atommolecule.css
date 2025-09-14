@@ -1,0 +1,26 @@
+.t1 {
+    text-align: center;
+}
+figure {
+    display: block;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.atom-list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.graphite {
+    width: 200px;
+    height: auto;
+}
+.molecule-list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.acid {
+    width: 200px;
+    height: auto;
+}
